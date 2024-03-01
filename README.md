@@ -1,5 +1,5 @@
 # Chess-Game :video_game:
-This is a chess game created using pygame library. :t-rex:
+A chess game under my own name created using pygame library. :t-rex:
 
 ![Screenshot 2024-03-01 154454](https://github.com/qazalnaderi/Chess-Game/assets/118485134/6c47772c-691a-4b23-89ed-c58c61b40211)
 
