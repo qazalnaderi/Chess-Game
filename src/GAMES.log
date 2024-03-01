@@ -1,0 +1,98 @@
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. d5 d4
+INFO:root:2. e5 e4
+INFO:root:3. xe4 Ke2
+INFO:root:4. xe3 xd5
+INFO:root:5. xf2 xd6
+INFO:root:6. xe4 Ke3
+INFO:root:7. xe1 xc7
+INFO:root:8. Kc7 Ke4
+INFO:root:9. xf5 Ke5
+INFO:root:10. xf4 xc3
+INFO:root:11. Kd6 xc4
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. e5 d4
+INFO:root:2. e4 e3
+INFO:root:3. f5 Qa5
+INFO:root:4. a6 Qc7
+INFO:root:5. xb6 Qd8#
+INFO:root:: game exited.INFO:root:: new game started.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. e5 d4
+INFO:root:2. xd4 xe4
+INFO:root:3. xf5 xf5
+INFO:root:4. Qe1 xc4
+INFO:root:5. xc3 Ke1
+INFO:root:: game exited.
+INFO:root:1. e5 d4
+INFO:root:2. xd4 xf4
+INFO:root:3. Qe2 Be2
+INFO:root:4. xd3 Bh5
+INFO:root:5. xc2 Bd2
+INFO:root:6. xb1 Bb4
+INFO:root:7. xd5 Be7
+INFO:root:8. Ke8 Bh4
+INFO:root:9. Ke7 xf5
+INFO:root:10. Kd6 Bf7
+INFO:root:11. Ke7 Be8
+INFO:root:12. Ke8 xf6
+INFO:root:13. xf6 xg4
+INFO:root:14. Ba3 xa3
+INFO:root:15. Kd7 Kc2
+INFO:root:16. xd4 Kb3
+INFO:root:17. Kc6 Kb4
+INFO:root:18. Kb5 Kb5#
+INFO:root:: game exited.INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. d5 c3
+INFO:root:2. d4 xd4
+INFO:root:3. xe5 xe4
+INFO:root:4. xd4 xe5
+INFO:root:5. xd3 xb3
+INFO:root:6. xc5 xb4
+INFO:root:7. xb4 xf4
+INFO:root:8. Ke7 xe6
+INFO:root:9. Ke6 xf5
+INFO:root:10. Kf5 xg4
+INFO:root:11. xg5 xf5#
+INFO:root:: game exited.INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game restarted.
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. Na6 b4
+INFO:root:2. c5 c4
+INFO:root:3. b5 Ba3
+INFO:root:4. Bb7 Nc3
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:1. Na6 b4
+INFO:root:2. b5 c4
+INFO:root:3. Bb7 d4
+INFO:root:: game restarted.
+INFO:root:1. f5 g4
+INFO:root:2. f4 e4
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game restarted.
+INFO:root:: game restarted.
+INFO:root:: game restarted.
+INFO:root:1. c5 f4
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game restarted.
+INFO:root:: game exited.
