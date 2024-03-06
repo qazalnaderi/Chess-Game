@@ -96,3 +96,6 @@ INFO:root:: new game started.
 INFO:root:white vs black 
 INFO:root:: game restarted.
 INFO:root:: game exited.
+INFO:root:: new game started.
+INFO:root:white vs black 
+INFO:root:: game exited.
